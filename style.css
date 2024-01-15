@@ -165,10 +165,7 @@ img {
   margin-right: 5%;
   margin-top: 5%;
 }
-.options2 {
-  display: flex;
-}
-.options2 .dinosaur {
+.options1 .dinosaur {
   border: inset;
   border-color: white;
   width: 200px;

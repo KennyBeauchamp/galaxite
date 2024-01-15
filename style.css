@@ -131,7 +131,7 @@ img {
 }
 .options1 {
   display: flex;
-  margin-bottom: 15px;
+  margin-top: 5%;
 }
 .options1 .tetris {
   border: inset;
